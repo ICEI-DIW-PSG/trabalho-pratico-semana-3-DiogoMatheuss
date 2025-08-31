@@ -10,10 +10,10 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Diogo
+- Matricula: 903817
+- Proposta de projeto escolhida: Temas e Conteúdos Associados	
+- Breve descrição sobre seu projeto: One piece q é um anime/manga e seus personagens 
 
 
 ## Print do(s) wireframe(s) criado
